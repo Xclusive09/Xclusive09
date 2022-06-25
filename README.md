@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xclusive09
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... Java
+- 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... PROJECTS.
 - 📫 How to reach me ... https://xclusive09.github.io/my-website/
 
