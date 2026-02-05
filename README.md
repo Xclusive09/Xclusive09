@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <p><img src="https://img.shields.io/badge/Stars-16-f59e0b?style=flat-square&logo=github-sponsors&logoColor=white" alt="total stars" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/053288e7.svg" alt="followers" />&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/1c9a8832.svg" alt="profile views" /></p>
+  <p><img src="https://img.shields.io/badge/Stars-16-f59e0b?style=flat-square&logo=github-sponsors&logoColor=white" alt="total stars" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Followers-56-0ea5e9?style=flat-square&logo=github&logoColor=white" alt="followers" />&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Xclusive09&label=PROFILE+VIEWS&color=0f172a&style=flat-square" alt="profile views" /></p>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 <div align="center">
   <h3>Social Connections</h3>
 
-<img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/be8f65e2.svg" alt="location">&nbsp;&nbsp;<a href="https://xcluisve.tech"><img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/d3782828.svg" alt="website"></a>&nbsp;&nbsp;<a href="https://twitter.com/xclusive081"><img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/323aaacf.svg" alt="twitter"></a>
+<img src="https://img.shields.io/badge/Location-Nigeria-0f172a?style=flat-square&logo=google-maps&logoColor=white" alt="location">&nbsp;&nbsp;<a href="https://xcluisve.tech"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=google-chrome&logoColor=white" alt="website"></a>&nbsp;&nbsp;<a href="https://twitter.com/xclusive081"><img src="https://img.shields.io/badge/Twitter-0f172a?style=flat-square&logo=twitter&logoColor=white" alt="twitter"></a>
 </div>
 
 <br><br>
@@ -26,7 +26,7 @@
 | :--- | :--- | :--- | :--- |
 | 96 | 16 | 9 | Active |
 
-  <img src="https://raw.githubusercontent.com/Xclusive09/Xclusive09/main/assets/50263e09.svg" alt="github stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Xclusive09&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&t=1770290174046" alt="github stats" />
 </div>
 
 <br>
@@ -34,9 +34,9 @@
 <div align="center">
   <h3>Tech Stack</h3>
 
-  <img src="./assets/b4e77f2a.svg" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=git,react,nestjs,nextjs,docker,aws,postman,django,prisma,ts,postgresql,js,html,py,css,c,java,kotlin,bash" alt="tech stack" />
   <br><br>
-  <img src="./assets/02f7be83.svg" alt="top languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Xclusive09&layout=compact&theme=dracula&hide_border=true&langs_count=10&t=1770290174046" alt="top languages" />
 </div>
 
 <br>
@@ -44,11 +44,11 @@
 <div align="center">
   <h3>Featured Projects</h3>
 
-  <img src="./assets/27d85fd7.svg" alt="gh-profile" />
-  <img src="./assets/24740397.svg" alt="Trybe-X-Bootcamp" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Xclusive09&repo=gh-profile&theme=dracula&hide_border=true&t=1770290174046" alt="gh-profile" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Xclusive09&repo=Trybe-X-Bootcamp&theme=dracula&hide_border=true&t=1770290174046" alt="Trybe-X-Bootcamp" />
 <br><br>
-  <img src="./assets/7a188a1b.svg" alt="ComprehensionPY" />
-  <img src="./assets/39254f33.svg" alt="crai1.1" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Xclusive09&repo=ComprehensionPY&theme=dracula&hide_border=true&t=1770290174046" alt="ComprehensionPY" />
+  <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=Xclusive09&repo=crai1.1&theme=dracula&hide_border=true&t=1770290174046" alt="crai1.1" />
 </div>
 
 <br><br>
